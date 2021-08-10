@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: arial;
+  background: #dedede;
+}
+
+.form {
+  width: 450px;
+  height: 300px;
+  background:#00a5cf;
+  box-shadow: 5px 10px 30px #000;
+  margin: auto;
+  margin-top: 180px;
+  color: white;
+  padding: 30px 20px;
+}
+.form h5 {
+  margin: 0;
+  text-align: center;
+  height: 40px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid;
+  font-size: 20px;
+}
+
+.form a{
+  text-decoration: none;
+  color: white;
+}
+
+.control{
+  width: 100%;
+  border: 1px solid #000;
+  padding: 5px 15px;
+  margin-bottom: 15px;
+}
+
+
+.boton{
+  width: 49%;
+  height: 40px;
+  margin-top: 15px;
+  background: #FF6633;
+  border: 10px #FFFFFF;
+  color: white;
+}
